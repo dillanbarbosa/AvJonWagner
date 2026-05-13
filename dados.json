@@ -1,0 +1,32 @@
+[
+    {
+        "personagem": "Itadori",
+        "tecnica": "Demantelar",
+        "classe": "Feiticeiro",
+        "grau": "Especial"
+    },
+    {
+        "personagem": "Megumi",
+        "tecnica": "Dez sombras",
+        "classe": "Feiticeiro",
+        "grau": "2"
+    },
+    {
+        "personagem": "Hakari",
+        "tecnica": "Jackpot",
+        "classe": "Feiticeiro",
+        "grau": "1"
+    },
+    {
+        "personagem": "Mahito",
+        "tecnica": "Tranfiguração Inerte",
+        "classe": "Malição",
+        "grau": "Especial"
+    },
+    {
+        "personagem": "Jogo",
+        "tecnica": "Chamas do Desastre",
+        "classe": "Malição",
+        "grau": "Especial"
+    }
+]
