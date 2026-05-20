@@ -26,10 +26,10 @@ function busca_coisa(botao) {
 
     const celulas = linha.cells;
 
-    let input1 = document.GetElementById("input1");
-    let input2 = document.GetElementById("input2");
-    let input3 = document.GetElementById("input3");
-    let input4 = document.GetElementById("input4");
+    let input1 = document.getElementById("input1");
+    let input2 = document.getElementById("input2");
+    let input3 = document.getElementById("input3");
+    let input4 = document.getElementById("input4");
 
     input1.value = celulas[0].innerHTML;
     input2.value = celulas[1].innerHTML;
